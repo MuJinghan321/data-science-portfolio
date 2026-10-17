@@ -40,4 +40,4 @@ This project analyzes 40 years of monthly automobile sales data (1980–2020) ac
 ## Contact
 
 - **GitHub:** [github.com/MuJinghan321](https://github.com/MuJinghan321)
-- **Email:** your.email@um.edu.mo
+- **Email:** mc64450@um.edu.mo
